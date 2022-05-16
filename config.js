@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-creative/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `https://iexceldentalapp.netlify.app/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'iEXCEL Dental app',
   subHeading: 'iEXCEL at University of Nebraska Medical Center  ',
 
